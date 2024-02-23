@@ -1,2 +1,2 @@
-# Full Stack App Sample
-This is a sample full stack app built from scratch
+# Astrolabs Lab Exercises
+This is the lab exercise for Astrolabs Workshop

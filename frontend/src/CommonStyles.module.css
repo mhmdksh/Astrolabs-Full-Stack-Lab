@@ -1,0 +1,13 @@
+/* CommonStyles.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Use the full height of the viewport */
+    text-align: center; /* Center the text horizontally */
+}
+  
+.links {
+    margin-top: 20px;
+}  
