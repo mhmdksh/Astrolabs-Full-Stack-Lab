@@ -9,4 +9,4 @@ You will find below the summary with the code examples that we worked on during 
 ## Day 4
 [Day 4](Day 4/)
 ## Day 5
-[Day 5](./Day 5/readme.md)
+[Day 5](./Day5/readme.md)
